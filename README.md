@@ -1,6 +1,6 @@
 # Open Source Assets of XR Blocks
 
-All assets here are providers by [XR Blocks](https://xrblocks.github.io)
+All assets here are provided by [XR Blocks](https://xrblocks.github.io)
 contributors for XR creators!
 
 Welcome to contribute and make sure that you own the assets!
